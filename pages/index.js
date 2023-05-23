@@ -11,7 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Subdomain Takeover PoC by @ehshahid from HackerOne" </Header>
+        <Header title="Subdomain Takeover PoC by @ehshahid from HackerOne" />
+        <p className="description">
+          <code>@ehshahid</code>
+        </p>
       </main>
 
       <Footer />
